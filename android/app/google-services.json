@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424956202525",
+    "project_id": "pawslink-1bc1e",
+    "storage_bucket": "pawslink-1bc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424956202525:android:30373e367a649b9514c0f4",
+        "android_client_info": {
+          "package_name": "com.pawslink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5LcNaJ8BaZXRZw1SOV-i7XtFdQOHDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424956202525:android:689adee3d1e97ba714c0f4",
+        "android_client_info": {
+          "package_name": "com.pawslink.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5LcNaJ8BaZXRZw1SOV-i7XtFdQOHDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
