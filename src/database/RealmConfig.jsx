@@ -1,4 +1,6 @@
-let APP_ID = 'pawslink_v1-jypuh';
+// realm app id
+// used to connect to realm
+let APP_ID = '';
 
 const realmAccessBehavior = {
     type: 'downloadBeforeOpen',

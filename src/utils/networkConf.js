@@ -1,4 +1,5 @@
-const localMachineIPAddress = "192.168.68.119"
+// ipv4 address of the machine where the server is running
+const localMachineIPAddress = ""
 
 const port = "3030"
 
